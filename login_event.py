@@ -8,7 +8,6 @@ bot.remove_command('help')
 
 
 @bot.event
-# Einloggen
 async def on_ready():
     print("Ich habe mich eingeloggt. Beep bop.")
 
