@@ -1,6 +1,5 @@
 import discord
 from discord.ext import commands
-from discord.ext.commands import Bot
 
 TOKEN = 'DEIN TOKEN'
 bot = commands.Bot(command_prefix='+')
