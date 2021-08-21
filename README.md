@@ -9,3 +9,5 @@ Wenn du das hast is es gut wenn du dir PyCharm (https://www.jetbrains.com/pychar
 Jetzt musst du dir einen Bot erstellen (https://discord.com/developers/applications)
 erstelle eine application und entwickle sie zu einen Bot. Jetzt musst du nur noch adden. 
 gehe dazu Links auf oauth2 und scroll runter. bei dein Punkten wählst du Bot und Applications.command aus. Jetzt kannst du weiter runter scrollen. da würden wir euch empfehelen admin auszuwählen. dann scrollt ihr etwas hoch. nun könnt ihr den link kopieren und den bot auf eueren server adden 
+
+Bei Fragen Joint unseren Discord https://discord.gg/WN94zus 
