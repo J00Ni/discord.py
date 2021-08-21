@@ -14,4 +14,4 @@ Bei Fragen Joint unseren Discord https://discord.gg/WN94zus
 
 # Disclaimer:
 
-Die codes sind frei verfügbar. Aber dennoch solltet ihr uns erwähnen und den code nicht als euren eigenen betiteln.
+Die Dodes sind frei verfügbar. Aber dennoch solltet ihr uns erwähnen und den code nicht als euren eigenen betiteln.
