@@ -10,4 +10,4 @@ bot.remove_command('help')
 async def on_ready():
     print("Ich habe mich eingeloggt. Beep bop.")
 
-bot.run (TOKEN, bot=True)
+bot.run(TOKEN)
